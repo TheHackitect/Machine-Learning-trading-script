@@ -1,0 +1,3 @@
+Final Balance: 11298.423084139824
+Total Trades: 2
+Sharpe Ratio: 0.6769072372437647
